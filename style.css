@@ -1,0 +1,19 @@
+input {
+    padding: 10px;
+    width: 100%;
+    max-width: 300px;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+    font-size: 1em;
+    text-align: center;
+}
+.info-text {
+    font-size: 1.2em;
+    margin: 5px 0;
+    padding: 8px;
+    background: rgba(255, 255, 255, 0.4);
+    border-radius: 8px;
+    text-align: center;
+    font-weight: bold;
+}
